@@ -1,11 +1,9 @@
 <script setup>
-import CustomTestHeader from './components/CustomTestHeader.vue'
+import MyHeader from "@/components/MyHeader.vue";
 </script>
 
 <template>
-  <header>
-    <CustomTestHeader/>
-  </header>
+  <MyHeader/>
 </template>
 
 <style scoped>
