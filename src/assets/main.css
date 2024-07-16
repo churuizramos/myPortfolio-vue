@@ -1,8 +1,8 @@
 /*vue*/
 @import './base.css';
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400..700;1,400..700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap'); /*Archivo Black font*/
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,600;1,600&display=swap'); /*Archivo Narrow SemiBold 600*/
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500&display=swap'); /*Archivo Regular 500*/
 
 /*tailwind*/
 @tailwind base;
