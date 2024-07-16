@@ -5,7 +5,7 @@
 <template>>
   <div class="space-y-4 bg-c-emerald-3 px-10 py-16 text-c-orange-1 font-archivo-narrow">
     <div>
-      <h1 class="text-2xl">&commat;churuizramos</h1>
+      <h1 class="text-2xl font-archivo-regular">&commat;churuizramos</h1>
       <h1 class="text-8xl text-gray-300 font-archivo-black">JESUS RUIZ RAMOS</h1>
     </div>
     <div>
@@ -15,9 +15,9 @@
         <a href="https://github.com/churuizramos/" target="_blank" class="inline-block hover:bg-gray-300 transition transition-duration-300 rounded-full"><img src="/icons8-github.svg" alt="GitHub icon" class="size-10 align-middle"/></a>
         <a href="https://www.linkedin.com/in/jesus-ruiz-ramos-9591a5238/" target="_blank" class="inline-block hover:bg-gray-300 transition transition-duration-300 rounded-full"><img src="/icons8-linkedin.svg" alt="LinkedIn icon" class="size-10 align-middle"/></a>
       </div>
-      <div class="text-2xl inline-block align-top">
-        <a href="mailto:j0ruiz08@louisville.edu" class="inline-block text-c-orange-1 hover:text-c-orange-2 hover:bg-gray-300 transition transition-duration-300 my-1 mx-0.5 px-2 rounded-2xl"><h2>j0ruiz08@louisville.edu</h2></a>
-        <a href="mailto:ruizramos04@outlook.com" class="inline-block text-c-orange-1 hover:text-c-orange-2 hover:bg-gray-300 transition transition-duration-300 my-1 mx-0.5 px-2 rounded-2xl"><h2>ruizramos04@outlook.com</h2></a>
+      <div class="text-2xl inline-block align-top font-archivo-regular">
+        <a href="mailto:j0ruiz08@louisville.edu" class="inline-block text-c-orange-1 hover:text-c-orange-2 hover:bg-gray-300 transition transition-duration-300 my-1 mx-0.5 px-2 rounded-2xl"><h2>school&commat;</h2></a>
+        <a href="mailto:ruizramos04@outlook.com" class="inline-block text-c-orange-1 hover:text-c-orange-2 hover:bg-gray-300 transition transition-duration-300 my-1 mx-0.5 px-2 rounded-2xl"><h2>personal&commat;</h2></a>
       </div>
     </div>
   </div>
