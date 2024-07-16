@@ -28,6 +28,7 @@ export default {
       fontFamily: {
         'archivo-black': ["Archivo Black"],
         'archivo-narrow': ["Archivo Narrow"],
+        'archivo-regular': ["Archivo"]
       },
     },
   },
