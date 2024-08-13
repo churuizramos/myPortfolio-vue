@@ -9,3 +9,20 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer utilities {
+    .footer-custom {
+        @apply bg-c-emerald-4 flex
+    }
+    .footer-aside-custom {
+        @apply flex-col place-content-center
+    }
+    .footer-link {
+        @apply flex-row
+    }
+    .footer-img-c {
+        @apply inline-block
+    }
+    .footer-p-c {
+        @apply inline-block
+    }
+}
